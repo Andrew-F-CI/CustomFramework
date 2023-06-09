@@ -4,7 +4,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "CustomFramework",
+    name: "CustomFrameworkPackage",
     platforms: [
       .macOS(.v12), .iOS(.v15)
     ],
